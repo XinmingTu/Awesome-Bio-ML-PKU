@@ -5,40 +5,43 @@ This is a repo that includes some resources about machine learning and the appla
 
 ## For the machine learning beginner
 
-First, you should know the basic python.
-
-
-
 
 
 
 * [Basic Python](https://www.learnpython.org) 
 
-* [Overleaf](https://www.overleaf.com)
+* [Overleaf](https://www.overleaf.com) 
 * [machine learning](https://www.coursera.org/learn/machine-learning)
 *  [Deep Learning](https://www.coursera.org/specializations/deep-learning)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) Deep learning 
+* [Bayesian Data Analysis](https://github.com/XinmingTu/Awesome-Bio-ML-PKU/tree/master/pdf/BDA.pdf)
 * [Awesome Bayes](https://github.com/dimenwarper/awesome-bayes)
+* [Introduction to Statistical Learning with R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
+* [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
+* Pattern recognition and machine learning([(PRML)](https://github.com/XinmingTu/Awesome-Bio-ML-PKU/tree/master/pdf/PRML.pdf))
 
 
 
 ### Computational Biology Courses
 
-* [stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) computational biology 
+* [Stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) computational biology 
 
 
 
 
 ### Some review about Machine learnning in Biology
 
+
 ### Other related repo
 
+* [Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins) 
 
-
+* [Getting started in machine learning](https://yangkky.github.io/2019/06/21/getting-started.html) yangkky's answer 
+to how a chemist or biologist can get started in machine learning. 
 
 
 ### People
-* Xinming Tu xinmingtu@pku.edu.cn
+* Xinming Tu xinmingtu.cn
 * Shasha Feng
 * Zhiyuan Hu
 
