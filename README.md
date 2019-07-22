@@ -1,7 +1,7 @@
 # Awesome-Bio-ML-PKU
 
-
 This is a repo that includes some resources about machine learning and the applacation in biology.
+
 
 ## For the machine learning beginner
 
@@ -9,7 +9,6 @@ This is a repo that includes some resources about machine learning and the appla
 
 
 * [Basic Python](https://www.learnpython.org) 
-
 * [Overleaf](https://www.overleaf.com) 
 * [machine learning](https://www.coursera.org/learn/machine-learning)
 *  [Deep Learning](https://www.coursera.org/specializations/deep-learning)
@@ -38,6 +37,7 @@ This is a repo that includes some resources about machine learning and the appla
 
 * [Getting started in machine learning](https://yangkky.github.io/2019/06/21/getting-started.html) yangkky's answer 
 to how a chemist or biologist can get started in machine learning. 
+* [Machine learning tutorial for biologists, designed for Oz Single Cells 2019](https://github.com/scottgigante/machine-learning-tutorial), which includes jupyter notebook and slides.
 
 
 ### People
