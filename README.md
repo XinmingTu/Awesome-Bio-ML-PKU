@@ -39,7 +39,7 @@ This is a repo that includes some resources about machine learning and the appla
 to how a chemist or biologist can get started in machine learning. 
 * [Machine learning tutorial for biologists, designed for Oz Single Cells 2019](https://github.com/scottgigante/machine-learning-tutorial), which includes jupyter notebook and slides.
 
-
+* [awesome single cell](https://github.com/seandavi/awesome-single-cell)
 ### People
 * Xinming Tu xinmingtu.cn
 * Shasha Feng
