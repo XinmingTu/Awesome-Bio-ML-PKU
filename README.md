@@ -5,10 +5,10 @@ This is a repo that includes some resources about machine learning and the appli
 ## Table of contents
 - [ Awesome-Bio-ML](#head1)
 	- [Machine Learning](#head2)
-		- [Computational Biology Courses](#head3)
-		- [Reviews about Machine Learnning in Biology](#head4)
-		- [Other related links](#head5)
-		- [ People](#head6)
+	- [Computational Biology Courses](#head3)
+	- [Reviews about Machine Learnning in Biology](#head4)
+	- [Other related links](#head5)
+	- [ People](#head6)
 
 
 ## <span id="head2">Machine Learning</span>
@@ -29,18 +29,18 @@ This is a repo that includes some resources about machine learning and the appli
     * [Awesome pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)
     * [Paper with code](https://paperswithcode.com) highlights trending ML research and the code to implement it.
 
-### <span id="head3">Computational Biology Courses</span>
+## <span id="head3">Computational Biology Courses</span>
 
 * [Stanford Computational Biology in Four Dimensions](https://cs371.stanford.edu/index.html) computational biology 
 * [MIT Foundations of computational and systems biology](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
 
 
 
-### <span id="head4">Reviews about Machine Learnning in Biology</span>
+## <span id="head4">Reviews about Machine Learnning in Biology</span>
 
 
 
-### <span id="head5">Other related links</span>
+## <span id="head5">Other related links</span>
 
 * Repo
     * [Deeplearning-biology](https://github.com/hussius/deeplearning-biology)
@@ -58,7 +58,7 @@ to how a chemist or biologist can get started in machine learning.
 * Tutorial
     * [Machine learning tutorial for biologists, designed for Oz Single Cells 2019](https://github.com/scottgigante/machine-learning-tutorial), which includes jupyter notebook and slides.
 
-### <span id="head6"> People</span>
+## <span id="head6"> People</span>
 * [Xinming Tu](https://xinmingtu.cn)
 * [Shasha Feng](https://sha256feng.github.io/personal-web/)
 * [Zhiyuan Hu](https://zhiyhu.github.io)
