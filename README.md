@@ -20,14 +20,18 @@ This is a repo that includes some resources about machine learning and the appli
 * Book
     * [Pattern recognition and machine learning](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjQvt-LutXkAhXQxosBHUxaAcAQFjAAegQIAxAC&url=http%3A%2F%2Fusers.isr.ist.utl.pt%2F~wurmd%2FLivros%2Fschool%2FBishop%2520-%2520Pattern%2520Recognition%2520And%2520Machine%2520Learning%2520-%2520Springer%2520%25202006.pdf&usg=AOvVaw2j0fMGPbFfpcwGzqELtiRU)
     * [Introduction to Statistical Learning with R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
+    * [Bayesian] [Bayesian Data Analysis, Third Edition](https://books.google.co.uk/books/about/Bayesian_Data_Analysis_Third_Edition.html?id=ZXL6AQAAQBAJ&redir_esc=y)
 * Repo
-    * [Awesome Bayes](https://github.com/dimenwarper/awesome-bayes)
-    * [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
+    * [Bayesian] [Awesome Bayes](https://github.com/dimenwarper/awesome-bayes)
+    * [Bayesian] [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
     * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) Deep learning 
     * [Literature of Deep Learning for Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
     * [CS234: Reinforcement Learning, Stanford](https://github.com/Zhenye-Na/reinforcement-learning-stanford)
     * [Awesome pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)
     * [Paper with code](https://paperswithcode.com) highlights trending ML research and the code to implement it.
+* Other resources
+    * [Bayesian] [Tutorials of Stan](https://mc-stan.org/users/documentation/tutorials) 	
+
 
 ## <span id="head3">Computational Biology Courses</span>
 
